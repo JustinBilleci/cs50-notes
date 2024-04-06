@@ -16,6 +16,10 @@
 
 -ASCII = maps between numbers and letters. In ASCII the number 1 = 49. ASCII can represent 256 total characters, to solve this we add more bits, bytes, etc. 
 
--Unicode is an organization dedicated to capturing all forms of human language.
+-Unicode is an organization dedicated to capturing all forms of human language. Unicode also created the emoji
 
--
+-There is many ways color can be shown on computers but RGB is the most common. 
+
+-images are represented by a multitude of pixels of varying colors to compose an image. videos do the same but the pixels change colors over a period of time.
+
+-videos are basically just a flipbook. a sequence of pictures which themselves are made of pixels. 
