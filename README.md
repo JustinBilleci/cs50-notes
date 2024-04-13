@@ -23,3 +23,7 @@
 -images are represented by a multitude of pixels of varying colors to compose an image. videos do the same but the pixels change colors over a period of time.
 
 -videos are basically just a flipbook. a sequence of pictures which themselves are made of pixels. 
+
+
+*Javascript Notes*
+
